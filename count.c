@@ -31,5 +31,7 @@ int main(void) {
         }
     }
     fclose(fp); // 关闭文件
+    getchar();
+    getchar();
     return 0;
 }
